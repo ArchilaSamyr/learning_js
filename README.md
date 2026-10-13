@@ -1,1 +1,14 @@
-# learning_js
+# learning_js_2026
+Elementos Basicos de lenguaje JavaScript
+
+# las 10 reglas fundamentales de la sintaxis de JavaScript
+1. Las instrucciones terminan con punto y coma (;)
+2. Los numeros decimales utilizan el punto (.)
+3. Los literales de texto van entre comillas dobles ("...") o simples ("...")
+4. Se usa let, const o var para declarar variables
+5. El operador de asignacion es el signo igual (=)
+6. Operadores aritmeticos: +,-,*;/,%
+7. Las expresiones pueden combinar variables y valores
+8. Comentarios de una linea (//) y multilines (/*...*/)
+9. Los identificadores empiezan por letra, Guion bajo (_) o dolar ($)
+10. Case-sensitive: JavaScript distingue entre mayusculas y minusculas(nombre y Nombre son diferentes)
